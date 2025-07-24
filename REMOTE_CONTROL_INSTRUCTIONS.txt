@@ -1,0 +1,23 @@
+=== LUMIUS REMOTE CONTROL SETUP ===
+
+1. ON YOUR COMPUTER:
+   - Install Python SSH library: pip install paramiko
+   - Copy the control-app folder to your computer
+   - Run: python3 control_panel_remote.py
+
+2. CONNECTION SETTINGS:
+   - Raspberry Pi IP: 192.168.0.17
+   - Username: lumius
+   - Password: [your lumius user password]
+
+3. ON RASPBERRY PI:
+   - Run: ./lumius_launcher_rpi4.sh
+   - Choose option 2 (Remote Panel)
+   - Only the visualizer will run on RPi4
+
+4. BENEFITS:
+   - Control panel uses your computer's GPU
+   - Raspberry Pi focuses only on visuals
+   - Better performance and responsiveness
+   - Control from anywhere on the network
+
