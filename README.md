@@ -236,5 +236,3 @@ make
 - Crie novos parâmetros no painel e no control.txt conforme necessário
 
 ---
-
-**Lumius Project** – Transformando música em arte visual em tempo real, para plataformas acessíveis.
