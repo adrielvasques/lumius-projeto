@@ -1,0 +1,22 @@
+# Build directories
+pico-firmware/build/
+openframeworks-visualizer/bin/
+openframeworks-visualizer/obj/
+
+# Large files
+assets/music/music.mp3
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.o
+*.elf
+*.uf2
+*.hex

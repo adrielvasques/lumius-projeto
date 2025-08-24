@@ -1,0 +1,35 @@
+# Arquivos de música (muito grandes para GitHub)
+*.mp3
+*.wav
+*.ogg
+assets/music/*.mp3
+assets/music/*.wav
+assets/music/*.ogg
+openframeworks-visualizer/bin/data/*.mp3
+openframeworks-visualizer/bin/data/*.wav
+openframeworks-visualizer/bin/data/*.ogg
+
+# Build directories
+pico-firmware/build/
+openframeworks-visualizer/obj/
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.o
+*.elf
+*.uf2
+*.hex
+
+# Logs
+*.log
+log
+log.txt
+error_log.txt
